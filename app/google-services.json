@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756008141775",
+    "project_id": "rock-sublime-371122",
+    "storage_bucket": "rock-sublime-371122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756008141775:android:14f28f40481237f26008ba",
+        "android_client_info": {
+          "package_name": "com.andregg.usthbarp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756008141775-a65jh7tiss48erb7u7na4o9644b45ohm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaw_n8NvXF3oLwTw_tnx8shcRGHW4W5qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756008141775-a65jh7tiss48erb7u7na4o9644b45ohm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

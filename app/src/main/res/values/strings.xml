@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">USTHB ARP</string>
+
+
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="email_gmail_com">email@gmail.com</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="forget_your_password">Forget your password?</string>
+    <string name="please_fill_all_the_filds">Please fill all the fields</string>
+    <string name="check_your_confirm_password">Check your confirm password</string>
+    <string name="creer_un_nouveau_compte">Create a new account</string>
+    <string name="ajouter_le_post">Add The Post</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete_post_msg">The post has been deleted successfully</string>
+    <string name="delete_post_error_msg">A problem occurred while deleting the post</string>
+    <string name="username">username</string>
+    <string name="join_us_and_enjoy_your_journey_in_usthb">Join us and enjoy your journey in USTHB</string>
+    <string name="welcome">Welcome,</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
