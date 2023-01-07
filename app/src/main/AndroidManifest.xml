@@ -33,11 +33,11 @@
             android:exported="false"
             android:label="@string/title_activity_maps" />
         <activity
-            android:name=".RegisterActivity"
+            android:name=".ui.RegisterActivity"
             android:exported="false"
             android:theme="@style/Theme.USTHBARP.NoActionBar" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".ui.LoginActivity"
             android:exported="true"
             android:theme="@style/Theme.USTHBARP.NoActionBar">
             <intent-filter>
@@ -48,9 +48,10 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.USTHBARP.NoActionBar.Dark"/>
         <activity
-            android:name=".CaptureAct"
+            android:name=".util.CaptureAct"
             android:screenOrientation="portrait"
             android:stateNotNeeded="true"
             android:theme="@style/zxing_CaptureTheme" />

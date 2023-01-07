@@ -4,6 +4,7 @@
 
     <string name="name">name</string>
     <string name="password">password</string>
+    <string name="sharedPrefName">app-state</string>
     <string name="confirm_password">confirm password</string>
     <string name="email_gmail_com">email@gmail.com</string>
     <string name="female">Female</string>
@@ -11,6 +12,8 @@
     <string name="register">Register</string>
     <string name="login">Login</string>
     <string name="submit">Submit</string>
+    <string name="latitude">Latitude</string>
+    <string name="longtitude">Longtitude</string>
     <string name="forget_your_password">Forget your password?</string>
     <string name="please_fill_all_the_filds">Please fill all the fields</string>
     <string name="check_your_confirm_password">Check your confirm password</string>
@@ -24,5 +27,8 @@
     <string name="join_us_and_enjoy_your_journey_in_usthb">Join us and enjoy your journey in USTHB</string>
     <string name="welcome">Welcome,</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="MAP_API_KEY">AIzaSyD4QRzXBodgPMPSXXpMzhP7cO7E2ynnz3U</string>
+    <string name="DATABASE_URL">https://rock-sublime-371122-default-rtdb.firebaseio.com/</string>
+    <string name="DATABASE_LINK">https://arvr.google.com/scene-viewer/1.0?file=https://firebasestorage.googleapis.com/v0/b/ar-test2-5c517.appspot.com/</string>
 
 </resources>

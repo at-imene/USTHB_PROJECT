@@ -3,11 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/bg.xml" value="0.199" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/femal.xml" value="0.143" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/ic_search.xml" value="0.1895" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/rounded.xml" value="0.143" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/rounded_gray.xml" value="0.1895" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/search_drawable.xml" value="0.1895" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/split_line.xml" value="0.206" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/teacher.xml" value="0.188" />
         <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/white_bodrder.xml" value="0.199" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/white_border.xml" value="0.1665" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/drawable/white_femal.xml" value="0.1665" />
         <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/layout/item_place.xml" value="0.264" />
         <entry key="..\:/Users/Client/Documents/Master IV/M2/SEM/USTHB_AR_PROJECT/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.199" />
       </map>
     </option>

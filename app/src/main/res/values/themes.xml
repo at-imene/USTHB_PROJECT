@@ -17,7 +17,11 @@
     <style name="Theme.USTHBARP.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-
         <item name="colorPrimaryVariant">@color/white</item>
+    </style>
+    <style name="Theme.USTHBARP.NoActionBar.Dark">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimaryVariant">@color/black</item>
     </style>
 </resources>

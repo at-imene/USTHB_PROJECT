@@ -1,4 +1,4 @@
-package com.andregg.usthbarp;
+package com.andregg.usthbarp.util;
 
 import com.journeyapps.barcodescanner.CaptureActivity;
 
