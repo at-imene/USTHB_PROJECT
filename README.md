@@ -1,5 +1,19 @@
 # USTHB_PROJECT
 
+## Présentation de L’application :
+      USTHB AR est une application mobile qui utilise la réalité augmentée pour permettre aux utilisateurs de découvrir les différents lieux de l'USTHB en interagissant avec des modèles 3D. 
+
+## Les utilisateurs cibles : **
+Les étudiants et personnels de l'USTHB ainsi que toute personne désireuse de découvrir l'USTHB.
+
+## Les fonctionnalités: **
+ - Afficher et interagir avec les models 3d de l’usthb.
+ - Afficher localisation de l’utilisateur.
+ - Afficher les différents blocs de l’USTHB dans la map.
+ - Déterminer la trajectoire entre l’utilisateur vers un meuble particulier.
+ - Authentifier les utilisateurs.
+ - Afficher un modèle à partir d’un code QR.
+
 
 1. **L’Authentification**
 
